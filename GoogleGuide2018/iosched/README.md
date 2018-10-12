@@ -1,4 +1,4 @@
-# come from Google.Only fix some dependencies issues.
+# Come from Google.Only fix some dependencies issues.
 
 Google I/O Android App
 ======================
